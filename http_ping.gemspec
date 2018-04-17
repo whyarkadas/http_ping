@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "HttpPing/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "http_ping"
+  spec.name          = "HttpPing"
   spec.version       = HttpPing::VERSION
   spec.authors       = ["whyarkadas"]
   spec.email         = ["dortbucukkilo@gmail.com"]

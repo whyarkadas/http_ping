@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    http_ping (0.1.0)
+    HttpPing (0.1.0)
       thor
 
 GEM
@@ -28,8 +28,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  HttpPing!
   bundler (~> 1.16)
-  http_ping!
   rake (~> 10.0)
   rspec (~> 3.0)
 
