@@ -1,6 +1,6 @@
 require 'thor'
 require_relative '../http_ping'
-#require_relative '../HttpPing/generators/recipe'
+
 
 module HttpPing
   class CLI < Thor

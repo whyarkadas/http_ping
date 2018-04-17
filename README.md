@@ -1,11 +1,11 @@
 # HttpPing
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/http_ping`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to http_ping gem! This gem http ping to given url and return a result. Result also include ping duration. I have  used net-ping gem and trim this code for only http ping.
 
-TODO: Delete this and the text above, and describe your gem
+In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/http_ping`. To experiment with that code, run `bin/console` for an interactive prompt. Also you can use this gem by cli interface.
 
 ## Installation
-
+
 Add this line to your application's Gemfile:
 
 ```ruby
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Require this gem 'http_ping' and use ping method.
 
 ## Development
 

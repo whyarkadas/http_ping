@@ -1,3 +1,4 @@
+
 require File.join(File.dirname(__FILE__), 'ping')
 require 'win32ole'
 
