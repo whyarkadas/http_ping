@@ -28,8 +28,8 @@
       <file leaf-file-name="http_ping.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/http_ping.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="87">
+              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -243,12 +243,12 @@
       <workItem from="1523954622033" duration="63000" />
       <workItem from="1523954716631" duration="1557000" />
       <workItem from="1523956306211" duration="1378000" />
-      <workItem from="1523994230660" duration="2313000" />
+      <workItem from="1523994230660" duration="2590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8459000" />
+    <option name="totallyTimeSpent" value="8736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -540,8 +540,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/http_ping.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="87">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
